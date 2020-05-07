@@ -1,0 +1,440 @@
+﻿Number of Records,Phase ,Airline,Cat,Cause Detail,Cert,Country,Date,Fatality,Loc,Cause,Phase Detail,Plane Type,Px,Ref
+1,landing,Lufthansa Cityline,A1,pilot & ATC error,confirmed,France,1/6/1993,4,near Paris Charles de Gualle,human_error,approach,Dash 8-311,20,D-BEAT
+1,takeoff,Bouraq Indonesia,A1,engine failure,probable,Indonesia,1/9/1993,15,near Surabaya Airport,mechanical,initial_climb,Hawker Siddeley HS-748-234 Srs,29,PK-IHE
+1,en route,Pan Malaysian Air Transport,A1,low visibility,probable,Indonesia,1/31/1993,14,Mt. Kapur,weather,en_route,Shorts SC.7 Skyvan 3-100,29,9M-PID
+1,en route,Iran Air Tours,A1,"pilot error, collision",confirmed,Iran,2/8/1993,131,near Tehran-Mehra...,human_error,en_route,Tupolev 154M,67,EP-ITD
+1,landing,Formosa Airlines,A1,bad weather,probable,Taiwan,2/28/1993,6,near Orchid Island,weather,approach,Dornier 228-201,22,B-12238
+1,takeoff,Palair Macedonian,A1,maintenance error,confirmed,Macedonia,3/5/1993,83,"near Skopje, Macedonia",human_error,initial_climb,Fokker 100,56,PH-KXL
+1,landing,West Aviation,A1,bad weather,probable,Norway,3/19/1993,3,near Geilo-Dagali,weather,approach,Beechcraft 200 Super King Air,19,LN-TSA
+1,en route,Oeste Linhas Aéreas,A1,bad weather,probable,Brazil,3/23/1993,6,"near Cuiabá, MT",weather,en_route,Embraer 110C Bandeirante,22,PP-SBJ
+1,en route,China Eastern Airlines,A2,design flaw,probable,USA,4/6/1993,2,"near Aleutian Islands, Alaska",mechanical,en_route,McDonnell-Douglas MD-11,17,B-2171
+1,en route,MIAT Mongolian Airlines,A1,pilot & crew error,suspected,Mongolia,4/23/1993,32,near Zavkhan Province,human_error,en_route,Antonov 26,38,BNMAU-14102
+1,takeoff,Indian Airlines,A1,pilot error,probable,India,4/26/1993,55,near Aurangabad Airport,human_error,takeoff,Boeing 737 2AB,47,VT-ECQ
+1,en route,SAM Colombia,A1,pilot & ATC error,probable,Colombia,5/19/1993,132,Mt Paramo Frontino,human_error,en_route,Boeing 727-46,67,HK-2422X
+1,landing,Southwest Air,A1,engine failure,probable,Papua New Guinea,6/9/1993,9,Gulgubip Airport,mechanical,approach,Pilatus BN-2A-20 Islander,25,P2-SWA
+1,en route,Tajikistan Airlines,A1,turbulence,probable,Georgia,6/17/1993,41,near Tbilisi,weather,en_route,Antonov 26B,42,26035
+1,takeoff,Trans Namibia Aviation,A1,unknown,unknown,Namibia,6/28/1993,3,Aminius,unknown,initial_climb,Beechcraft 200 Super King Air,19,ZS-NEP
+1,landing,Merpati Nusantara,A1,unknown,unknown,Indonesia,7/1/1993,41,Sorong-Jefma,unknown,approach,Fokker F-28 Fellowship 3000,42,PK-GFU
+1,takeoff,China Northwest Airlines,A1,mechanical failure,confirmed,China,7/23/1993,55,"Yinchuan, Ningxia",mechanical,takeoff,BAe 146-300,47,B-2716
+1,landing,Asiana Airlines,A1,bad weather,probable,Korea,7/26/1993,68,Ungeo Mountain near Mokpo,weather,approach,Boeing 737-5L9,51,HL7229
+1,landing,Everest Air,A1,unknown,unknown,Nepal,7/31/1993,19,near Bharatpur Airport,unknown,approach,Dornier 228-101,32,9N-ACL
+1,landing,Sakha Avia,A1,overload,probable,Russia,8/26/1993,24,near Aldan Airport,human_error,landing,Let L-410UVP-E,34,RA-67656
+1,takeoff,Tajikistan Airlines,A1,overload,probable,Tajikistan,8/28/1993,82,near Khorog,human_error,takeoff,Yakovlev 40,55,87995
+1,landing,Lufthansa,A1,"crew error, design flaws",confirmed,Poland,9/14/1993,2,Warsaw,human_error,landing,Airbus A320,17,D-AIPN
+1,landing,Transair Georgia,C1,heat seeking missile,confirmed,Georgia,9/21/1993,27,Sukhumi-Babusheri Airport,criminal,approach,Tupolev-134A,36,65809
+1,landing,Transair Georgia,C1,shot down,confirmed,Georgia,9/22/1993,108,Sukhumi-Babusheri Airport,criminal,approach,Tupolev-154B,62,85163
+1,grounded,Orbi Georgian Airways,C1,mortar or artillery fire,suspected,Georgia,9/23/1993,1,Sukhumi-Babusheri Airport,criminal,grounded,Tupolev-154B-2,15,85359
+1,landing,China Eastern Airlines,A1,wet runway,probable,China,10/26/1993,2,"Fuzhou, Fujian",weather,landing,McDonnell Douglas MD-82,17,B-2103
+1,landing,Widerøe,A1,pilot & company error,probable,Norway,10/27/1993,6,near Namsos Airport,human_error,approach,de Havilland Canada DHC-6-300 Twin Otter,22,LN-BNM
+1,takeoff,Air Manitoba,A1,pilot & crew error,probable,Canada,11/10/1993,7,"near Sandy Lake, ON",human_error,initial_climb,Hawker Siddeley HS-748-234 Srs,23,C-GQTH
+1,landing,China Northern Airlines,A1,autopilot failure,probable,China,11/13/1993,12,near Urumqi Airport,mechanical,approach,McDonnell-Douglas MD-82,27,B-2141
+1,landing,Avioimpex,A1,pilot error,probable,Macedonia,11/20/1993,116,near Ohrid,human_error,approach,Yakovlev Yak-42,64,RA-42390
+1,landing,Northwest Airlink,A1,pilot & company error,confirmed,USA,12/1/1993,18,"near Hibbing, Minnesota",human_error,approach,Jetstream 31,31,N334PX
+1,en route,Arctic Wings and Rotors,A1,engine failure,probable,Canada,12/3/1993,7,"near Tuktoyaktuk, NT",mechanical,en_route,BN-2A-20 Islander,23,C-GMOP
+1,landing,Air Senegal,A1,pilot error,confirmed,Senegal,12/9/1993,3,near Dakar-Yoff A,human_error,approach,DHC-6 Twin Otter 300,19,6V-ADE
+1,landing,Lao Aviation,A1,low visibility,probable,Laos,12/13/1993,18,Phonesavanh,weather,approach,Harbin Yunshuji Y-12-II,31,RDPL-34117
+1,landing,Kuban Airlines,A1,overload,probable,Armenia,12/26/1993,35,Gyumri-Lenin,human_error,landing,Antonov 26B,40,CCCP-26141
+1,en route,Baikal Airlines,A1,crew & company error,confirmed,Russia,1/3/1994,125,near Mamony,human_error,en_route,Tupolev154M,66,RA-85656
+1,landing,"Atlantic Coast Airlines, operating for United Express",A1,pilot & crew error,probable,USA,1/7/1994,5,near Port Columbus Airport,human_error,approach,British Aerospace 4101 Jetstream,21,N304UE
+1,en route,Expresso Aéreo,A1,pilot error,suspected,Peru,2/25/1994,31,near Tingo Maria,human_error,en_route,Yakovlev 40,38,OB-1559
+1,en route,Aeroflot,A1,pilot error,confirmed,Russia,3/23/1994,75,Mezhdurechensk,human_error,en_route,Airbus A310-304,53,F-OGQS
+1,landing,KLM Cityhopper,A1,pilot & crew error,probable,Netherlands,4/4/1994,3,Amsterdamn Schiphol Airport,human_error,landing,Saab 340B,19,PH-KSH
+1,en route,Dirgantara Air Services,A1,pilot error,probable,Indonesia,4/25/1994,10,near Nangapinoh,human_error,en_route,IRMA/BN-2A-21 Islander,26,PK-ZAA
+1,landing,China Airlines,A1,pilot error,probable,Japan,4/26/1994,264,Nagoya-Komaki,human_error,approach,Airbus A300b4-622r,91,B-1816
+1,landing,Rico Linhas Aéreas,A1,unknown,unknown,Brazil,5/7/1994,8,São Gabriel,unknown,landing,Embraer 110EJ Bandeirante,24,PT-GJW
+1,takeoff,Transoriente Colombia,A1,engine failure,probable,Colombia,5/28/1994,7,near Villavicencio,mechanical,initial_climb,Douglas C-53D-DO (DC-3),23,HK-2213
+1,en route,China Northwest Airlines,A1,maintenance error,probable,China,6/6/1994,160,near Xian,mechanical,en_route,Tupolev Tu-154M,73,B-2610
+1,landing,Aero Cuahonte,A1,low visibility,probable,Mexico,6/13/1994,9,near Uruapan Airport,weather,approach,Swearingen SA226-TC Metro II,25,XA-SLU
+1,landing,Merpati Nusantara,A1,low visibility,probable,Indonesia,6/18/1994,12,Mount Kalora,weather,approach,Fokker F-27 Friendship 500F,27,PK-MFI
+1,en route,Wings of Alaska,A1,low visibility,probable,USA,6/23/1994,7,"Taku Inlet, AK",weather,en_route,DHC-3 Otter,23,N13GA
+1,landing,Air Ivoire,A1,pilot error,suspected,Ivory Coast,6/26/1994,17,near Abidjan-Felix Houphouet Boigny Airport,human_error,approach,Fokker F-27 Friendship 400M,31,TU-TIP
+1,landing,Air Mauritanie,A1,low visibility,probable,Mauritania,7/1/1994,80,Tidjikja Airport,weather,landing,Fokker F-28 Fellowship 4000,55,5T-CLF
+1,landing,USAir,A1,pilot error & windshear,confirmed,USA,7/2/1994,37,"Charlotte, NC",human_error,approach,McMcDonnell Douglas DC-9-31,40,N954VJ
+1,landing,"Trans Island Air, operating for Air Martinique",A1,pilot error,confirmed,Martinique,7/17/1994,6,near Fort de France-Lamentin Airport,human_error,approach,IRMA/Pilatus BN-2B-26 Islander,22,8P-TAD
+1,en route,Alas Chiricanas,C1,suicide bomber,suspected,Panama,7/19/1994,21,near Colon-Enrique A Jimenez Airport,criminal,en_route,Embraer 110P1 Bandeirante,33,HP-1202AC
+1,en route,Royal Air Maroc,A1,intentional pilot error,suspected,Morocco,8/21/1994,44,"Atlas Mountains, near Tizounine",human_error,en_route,ATR 42-312,43,CN-CDT
+1,landing,USAir,A1,rudder failure,probable,USA,9/8/1994,132,"near Aliquippa, PA",mechanical,approach,Boeing 737-3B7,67,N513AU
+1,landing,Aerocontractors,A1,pilot & crew error,probable,Nigeria,9/13/1994,2,near Abuja International Airport,human_error,approach,DHC-6 Twin Otter 300,17,5N-ATQ
+1,landing,Oriental Airlines,A1,low visibility,suspected,Algeria,9/18/1994,5,Tamanrasset-Aguemar Airport,weather,approach,BAC One-Eleven 515FB,21,5N-IMO
+1,takeoff,TAM Paraguay,A1,engine failure,confirmed,Paraguay,9/26/1994,1,Bahia Negra,mechanical,takeoff,Douglas C-47D,15,FAP2009
+1,en route,Cheremshanka Airlines,A1,pilot & crew error,probable,Russia,9/26/1994,28,near Vanavara,human_error,en_route,Yakovlev 40,36,RA-87468
+1,takeoff,Radeair,A1,pilot & crew error,confirmed,Argentina,9/29/1994,8,near Córdoba-Paja,human_error,takeoff,Rockwell 1121B Jet Commander,24,LV-WEN
+1,en route,Iran Aseman Airlines,A1,engine failure,confirmed,Iran,10/12/1994,66,near Natanz,mechanical,en_route,Fokker F-28 Fellowship,51,EP-PAV
+1,landing,Simmons Airlines,A1,atmospheric icing,confirmed,USA,10/31/1994,68,"near Roselawn, IN",weather,approach,ATR 72-212,51,N401AM
+1,landing,Servicios Aéreos Amazonicos,A1,pedestrian on runway,probable,Peru,11/5/1994,6,Saposoa Airport,human_error,landing,Yakovlev 40,22,OB-1569
+1,en route,Southwest Air,A1,bad weather,probable,Papua New Guinea,11/22/1994,7,near Tabubil,weather,en_route,IRMA/BN-2A-20 Islander,23,P2-SWC
+1,en route,Philippine Airlines,C2,bombing,confirmed,Japan,12/10/1994,1,near Minami Daito Island,criminal,en_route,Boeing 747-283B,15,EI-BWF
+1,landing,"Flagship Airlines, operating for American Eagle",A1,pilot error,confirmed,USA,12/13/1994,15,near Raleigh/Durh,human_error,approach,British Aerospace 3201 Jetstream,29,N918AE
+1,en route,Missionary Aviation Fellowship,A1,pilot error,suspected,Papua New Guinea,12/17/1994,28,near Olsobip,human_error,en_route,DHC-6 Twin Otter 200,36,P2-MFS
+1,grounded,Air France,H1,hostage situation,confirmed,France,12/26/1994,7,Marseille-Marignane Airport,criminal,grounded,Airbus 1300B2-1c,23,F-GBEC
+1,landing,Turkish Airlines,A1,low visibility,confirmed,Turkey,12/29/1994,57,near Van Ferit Melen Airport,weather,approach,Boeing 737-4Y0,48,TC-JES
+1,landing,Intercontinental de Aviación,A1,crew error,probable,Colombia,1/10/1995,51,near Maria La Baja,human_error,approach,Douglas DC-9-14,46,HK-3839X
+1,en route,Merpati Nusantara,A1,bad weather,probable,Indonesia,1/10/1995,14,Molo Strait,weather,en_route,DHC-6 Twin Otter 300,29,PK-NUK
+1,takeoff,Royal Nepal Airlines,A1,mechanical failure,suspected,Nepal,1/17/1995,2,Kathmandu-Tribhuvan Airport,mechanical,takeoff,DHC-6 Twin Otter 300,17,9N-ABI
+1,takeoff,Abakan Airlines,A1,engine failure,confirmed,Russia,1/20/1995,3,near Krasnoyarsk Airport,mechanical,takeoff,Let L-410UVP,19,RA-67120
+1,takeoff,Sociedade de Aviaçao Ligeira,C1,shot down,confirmed,Papua New Guinea,1/28/1995,2,near Cafunfo Airport,criminal,initial_climb,Beechcraft 200 Super King Air,17,D2-ECH
+1,en route,TAROM,A1,crew error,confirmed,Romania,3/31/1995,60,"Balotesti, Romania",human_error,en_route,Airbus A310-324,49,YR-LCC
+1,landing,Bearskin Airlines,A1,pilot error,probable,Canada,5/1/1995,3,"Sioux Falls, ON",human_error,approach,Swearingen SA227-CC Metro 23,19,C-GYYB
+1,en route,Knight Air,A1,instrument failure,confirmed,UK,5/24/1995,12,near Leeds/Bradford Airport,mechanical,en_route,Embraer 110P1 Bandeirante,27,G-OEAA
+1,landing,Ansett New Zealand,A1,pilot error,confirmed,New Zealand,6/9/1995,4,"Tararua Ranges, New Zealand",human_error,approach,de Havilland Canada DHC-8,20,ZK-NEY
+1,en route,Aeroflot,A1,low visibility,probable,Russia,6/16/1995,13,near Herpuchi,weather,en_route,Antonov 2P,28,RA-07743
+1,landing,"Komi Avia, operating for Harka Air Services",A1,bad weather,confirmed,Nigeria,6/24/1995,16,Lagos-Murtal,weather,landing,Tupolev 134A,30,RA-65617
+1,en route,Milne Bay Air,A1,electrical fire,confirmed,Papua New Guinea,7/12/1995,15,near Alotau,mechanical,en_route,DHC-6 Twin Otter 300,29,P2-MBI
+1,takeoff,Merpati Nusantara,A1,wet runway,probable,Indonesia,7/17/1995,1,Bintuni Airport,weather,takeoff,DHC-6 Twin Otter 300,15,PK-NUT
+1,landing,Madagascar AF,A1,pilot error,suspected,Madagascar,7/18/1995,36,Antananarivo,human_error,approach,Douglas C-47A-80-DL,40,5R-MMG
+1,landing,Aviateca,A1,pilot & crew error,probable,El Salvador,8/9/1995,65,San Vincent volcano,human_error,approach,Boeing 737-2H6,50,N125GU
+1,en route,Bouraq Indonesia,A1,pilot & crew error,suspected,Indonesia,8/9/1995,10,Kumawa Mount,human_error,en_route,Hawker Siddeley HS-748-216 Srs,26,PK-KHL
+1,en route,AIRES Colombia,A1,pilot & crew error,probable,Colombia,8/14/1995,8,near Toez,human_error,en_route,Embraer 110P1 Bandeirante,24,HK-2594
+1,en route,Atlantic Southeast Airlines,A1,design flaw,confirmed,USA,8/21/1995,9,"Carroll County, GA",mechanical,en_route,Embraer EMB-120 Brasília,25,N256AS
+1,landing,SATENA,A1,low visibility,probable,Colombia,9/9/1995,22,near La Macarena,weather,approach,CASA C-212 Aviocar 200,33,FAC-1152
+1,landing,Ariana Afghan Airlines,A1,pilot & crew error,probable,Afghanistan,9/11/1995,3,near Jalalabad Airport,human_error,approach,Antonov 26B,19,YA-BAO
+1,landing,Malaysia Airlines,A1,pilot error,probable,Malaysia,9/15/1995,34,Tawau Airport,human_error,landing,Fokker 50,39,9M-MGH
+1,landing,Walsten Air Service,A1,engine failure,probable,Canada,9/20/1995,6,Salvesen Lake,mechanical,approach,DHC-3 Otter,22,C-FGCV
+1,landing,MIAT Mongolian Airlines,A1,pilot error,probable,Mongolia,9/21/1995,42,Choho Geologloh Uul,human_error,approach,Antonov 24RV,42,BNMAU-10103
+1,en route,Lineas Aereas del Estado,A1,low visibility,probable,Argentina,11/8/1995,53,near Villa Dolore,weather,en_route,Fokker F-27 Friendship 400M,46,TC-72
+1,landing,Nigeria Airways,A1,pilot error,probable,Nigeria,11/13/1995,11,Kaduna Airport,human_error,landing,Boeing 737-F29,27,5N-AUA
+1,landing,Cameroon Airlines,A1,mechanical failure,probable,Cameroon,12/3/1995,71,near Douala International Airport,mechanical,approach,Boeing 737-200,52,TJ-CBE
+1,takeoff,Azerbaijan Airlines,A1,maintenance error,confirmed,Azerbaijan,12/5/1995,52,near Nakhichevan Airport,mechanical,initial_climb,Tupolev 134b-3,46,4K-65703
+1,en route,Khabarovsk United Air,A1,fuel imbalance,confirmed,Russia,12/7/1995,98,near Grossevichi,mechanical,en_route,Tupolev 154B,59,RA-85164
+1,en route,Air Saint Martin,A1,pilot & atc error,probable,Haiti,12/7/1995,20,near Belle-Anse,human_error,en_route,Beech 1900D,32,F-OHRK
+1,takeoff,Banat Air,A1,pilot error,probable,Italy,12/13/1995,49,near Verona Airport,human_error,takeoff,Antonov An-24B,45,YA-AMR
+1,unknown,Trans Service Airlift,A1,overload,probable,Angola,12/18/1995,141,Cahungula,human_error,unknown,Lockheed L-188C Electra,69,9Q-CRR
+1,landing,American Airlines,A1,crew error,confirmed,Colombia,12/20/1995,159,"near Buga, Valle del Cauca",human_error,approach,Boeing 757-223,73,N651AA
+1,takeoff,Moscow Airways,A1,overload,probable,DR Congo (then Zaire),1/8/1996,237,N'Dolo Airport,human_error,initial_climb,Antonov An-32B,87,RA-262222
+1,en route,Birgenair,A1,pilot error,suspected,Dominican Republic,2/6/1996,189,near Puerto Plata,human_error,en_route,Boeing 757-225,79,TC-GEN
+1,takeoff,Haiti Express Airways,A1,mechanical failure,suspected,Haiti,2/12/1996,10,Port-au-Prince-Mais Gate Airport,mechanical,initial_climb,GAF Nomad N.24A,26,N224E
+1,landing,Faucett,A1,pilot error,confirmed,Peru,2/29/1996,123,near Arequipa,human_error,approach,Boeing 737-222,65,OB-1451
+1,landing,Madrid Táxi Aéreo,A1,pilot & crew error,suspected,Brazil,3/2/1996,9,near São Paulo-Gu,human_error,approach,Learjet 25D,25,PT-LSD
+1,landing,Formosa Airlines,A1,pilot & crew error,probable,Taiwan,4/5/1996,6,near Matsu Airpor,human_error,approach,Dornier 228-212,22,B-12257
+1,landing,Federal Airlines,A1,sandstorm,confirmed,Sudan,5/3/1996,53,near Haj Yousif,weather,landing,Antonov 24RV,46,ST-FAG
+1,landing,Aeroservicios Emp. de Durango,A1,bad weather,probable,Mexico,5/10/1996,16,Santa Maria,weather,approach,DHC-6 Twin Otter 200,30,XA-SWJ
+1,en route,ValuJet,A1,cargo fire,suspected,USA,5/11/1996,110,Everglades,mechanical,en_route,McDonnell Douglas DC-9,62,N904VJ
+1,takeoff,Garuda Indonesia,A1,pilot error,suspected,Japan,6/13/1996,3,Fukuoka Airport,human_error,takeoff,McDonnell Douglas DC-10-30,19,PK-GIE
+1,landing,China Flying Dragon,A1,pilot & crew error,confirmed,China,6/21/1996,2,near Changhai Air,human_error,approach,Harbin Yunshuji Y-12-II,17,B-3822
+1,takeoff,Delta Air Lines,A2,maintenance error,probable,USA,7/6/1996,2,"near Pensacola, FL",human_error,takeoff,McDonnell Douglas MD-88,17,N927DA
+1,landing,Archana Airways,A1,pilot & company error,confirmed,India,7/11/1996,9,near Kanda,human_error,approach,Let L-410UVP-E9D,25,VT-ETC
+1,en route,Trans World Airlines,A1,fuel tank explosion,confirmed,USA,7/17/1996,230,"near East Moriches, NY",mechanical,en_route,Boeing 747-131,86,N93119
+1,landing,Myanma Airways,A1,bad weather,probable,Myanmar,7/24/1996,8,Myeik Airport,weather,landing,Fokker F-27 Friendship 600,24,XY-AET
+1,landing,Vnukovo Airlines,A1,pilot & crew error,suspected,Norway,8/29/1996,141,"Operafjellet, Svalbard",human_error,approach,Tupolev Tu-154M,69,RA-85621
+1,takeoff,Krissalan de Aviacion,A1,unknown,unknown,Mexico,9/18/1996,5,Bahía Tortugas Airfield,unknown,takeoff,Fairchild C-123K Provider,21,XA-SNB
+1,en route,Aeroperú,A1,maintenance error,suspected,Pacific Ocean,10/2/1996,70,"Pacific Ocean, near Lima",human_error,en_route,Boeing 757-23A,52,N52AW
+1,landing,Tyumenaviatrans,A1,pilot error,confirmed,Russia,10/26/1996,5,Khanty-Mansiysk,human_error,landing,Yakovlev 40K,21,RA-88527
+1,takeoff,TAM Transportes Aéreos Regionais,A1,engine failure,confirmed,Brazil,10/31/1996,103,near São Paulo-Congonhas Airport,mechanical,initial_climb,Fokker F28 Mk 0100,61,PT-MRK
+1,landing,TAPSA,A1,low visibility,probable,Guatemala,11/1/1996,14,near Santa Elena,weather,approach,Embraer 110P1 Bandeirante,29,TG-TPA
+1,landing,ADC Airlines,A1,pilot & atc error,confirmed,Nigeria,11/7/1996,144,near Ejirin,human_error,approach,Boeing 727-231,70,5N-BBG
+1,en route,Saudi Arabian Airlines,A1,"pilot error, mid air collision",confirmed,India,11/12/1996,312,"Charkhi Dadri, Haryana",human_error,en_route,Boeing 747-168B,98,HZ-AIH
+1,en route,Kazakhstan Airlines,A1,"pilot error, mid air collision",confirmed,India,11/12/1996,37,"Charkhi Dadri, Haryana",human_error,en_route,Ilyushin 76TD,40,UN-76435
+1,takeoff,Komi Avia,A1,pilot & crew error,probable,Russia,11/14/1996,14,Most Pyssa,human_error,initial_climb,Antonov 2T,29,RA-40309
+1,landing,United Express,A1,pilot error,confirmed,USA,11/19/1996,14,"Quincy Municipal Airport, IL",human_error,landing,Beechcraft 1900,29,N87GL
+1,landing,Ethiopian Airlines,H1,hijack,confirmed,Comoros,11/23/1996,125,near Grande Comore,criminal,approach,Boeing 767-260ER,66,ET-AIZ
+1,en route,ACES Colombia,A1,overload,probable,Colombia,11/30/1996,14,near Medellín,human_error,en_route,DHC-6 Twin Otter 300,29,HK-2602
+1,landing,Dirgantara Air Services,A1,engine failure,suspected,Indonesia,12/7/1996,18,near Banjarmasin,mechanical,approach,CASA/Nurtanio NC-212-A4 Avioca,31,PK-VSO
+1,en route,Polynesian Airlines,A1,pilot error,probable,Samoa,1/7/1997,3,near Apia-Fagali'i,human_error,en_route,DHC-6 Twin Otter 300,19,5W-FAU
+1,landing,Comair,A1,atmospheric icing,probable,USA,1/9/1997,29,"near Monroe, MI",weather,approach,Embraer EMB-120 Brasília,37,N265CA
+1,landing,Skypower Express,A1,pilot error,confirmed,Nigeria,1/31/1997,5,near Yola Airport,human_error,approach,Embraer 110P1A Bandeirante,21,5N-AXS
+1,landing,Varig,A1,low visibility,probable,Brazil,2/14/1997,1,Carajás Airport,weather,landing,Boeing 737-2C3,15,PP-CJO
+1,en route,Stavropolskaya Aktsionernaya Avia,A1,maintenance error,confirmed,Russia,3/18/1997,50,Cherkessk,human_error,en_route,Antonov AN-24,45,RA-46516
+1,landing,Merpati Nusantara,A1,pilot error,probable,Indonesia,4/19/1997,15,near Tanjung Pand,human_error,approach,British Aerospace ATP,29,PK-MTX
+1,landing,China Southern Airlines,A1,thunderstorm,confirmed,China,5/8/1997,35,"Shenzhen, Guangdon",weather,landing,Boeing 737-31B,40,B-2925
+1,en route,Bazair,A1,unknown,unknown,DR Congo,6/6/1997,23,near Irumu,unknown,en_route,Vickers 781D Viscount,34,9Q-CWL
+1,landing,MIAT Mongolian Airlines,A1,atc error,probable,Mongolia,6/10/1997,7,Mandalgobi A,human_error,approach,Harbin Yunshuji Y-12 II,23,JU-1020
+1,en route,TAM Transportes Aéreos Regionais,C2,attempted hijack,confirmed,Brazil,7/9/1997,1,"near Suzano, SP",criminal,en_route,Fokker 100,15,PT-WHK
+1,en route,Cubana de Aviación,A1,mechanical failure,suspected,Cuba,7/11/1997,44,near Santiago-Antonio Maceo Airport,mechanical,en_route,Antonov 24RV,43,CU-T1262
+1,en route,"Trigana Air Service, operating for Sempati Air",A1,engine failure,suspected,Indonesia,7/17/1997,28,Bandung,mechanical,en_route,Fokker F-27 Friendship 600,36,PK-YPM
+1,landing,ADC Airlines,A1,low visibility,suspected,Nigeria,7/29/1997,1,Calabar Airport,weather,landing,BAC One-Eleven 203AE,15,5N-BAA
+1,landing,Air Littoral,A1,pilot error,probable,Italy,7/30/1997,1,Florence-Peretola Airport,human_error,landing,ATR-42-512,15,F-GPYE
+1,landing,Korean Air,A1,pilot & crew error,probable,Guam,8/6/1997,228,Nimitz Hill,human_error,approach,Boeing 747-3B5,85,HL7468
+1,landing,Formosa Airlines,A1,low visibility,probable,Taiwan,8/10/1997,16,near Matsu Airport,weather,approach,Dornier 228-212,30,B-12256
+1,landing,Vietnam Airlines,A1,pilot error,confirmed,Cambodia,9/3/1997,65,Phnom Penh-Pochentong Airport,human_error,approach,Tupolev Tu-134,50,VNA120
+1,landing,Royal Brunei Airlines,A1,pilot error,suspected,Malaysia,9/6/1997,10,Lambir Hills National Park,human_error,approach,Dornier Du 228,26,9M-MIA
+1,en route,TMK Air Commuter,A1,pilot error,suspected,DR Congo,9/12/1997,19,Minembwe Mou,human_error,en_route,DHC-6 Twin Otter 300,32,9Q-CRY
+1,landing,Garuda Indonesia,A1,atc error & bad weather,probable,Indonesia,9/26/1997,234,near Medan-Polonia Airport,human_error,approach,Airbus A300,86,PK-GAI
+1,en route,Austral Líneas Aéreas,A1,pilot error,suspected,Argentina,10/10/1997,74,Nuevo Berlin,human_error,en_route,Douglas DC-9-32,53,LV-WEG
+1,landing,Sowind Air,A1,low visibility,probable,Canada,12/9/1997,4,Little Grand,weather,approach,Embraer 110P1 Bandeirante,20,C-GVRO
+1,takeoff,"STAP-Serv. y Transportes Aéreos Petroleros, operating for SAVE",A1,engine failure,suspected,Bolivia,12/13/1997,10,La Vertiente,mechanical,initial_climb,Swearingen SA226-TC Metro II,26,CP-1635
+1,landing,Tajikistan Airlines,A1,pilot error,confirmed,UAE,12/15/1997,85,near Sharjah Airport,human_error,approach,Tupolev 154B-1,56,EY-85281
+1,en route,Aerosvit,A1,pilot error,probable,Greece,12/17/1997,70,near Thessaloniki,human_error,en_route,Yakovlev Yak-42,52,UR-42334
+1,en route,SilkAir,A1,intentional pilot error,suspected,Indonesia,12/19/1997,104,near Palembang,criminal,en_route,Boeing 737-36N,61,9V-TRF
+1,en route,United Airlines,A1,pilot error,suspected,Pacific ocean,12/28/1997,1,Pacific ocean,human_error,en_route,Boeing 747-122,15,N4723U
+1,takeoff,Myanma Airways,A1,engine failure,suspected,Myanmar,1/27/1998,16,Thandwe Airport,mechanical,takeoff,Fokker F-27 Friendship 600,30,XY-AES
+1,en route,Cebu Pacific Air,A1,pilot error,suspected,Philippines,2/2/1998,104,Mount Sumagaya,human_error,en_route,Douglas DC-9-32,61,RP-C1507
+1,landing,China Airlines,A1,pilot & crew error,probable,Taiwan,2/16/1998,202,Taipei-Chiang Kai Shek International Airport,human_error,approach,Airbus A300,81,B-1814
+1,en route,Formosa Airlines,A1,pilot & crew error,probable,Taiwan,3/18/1998,13,near Hsinchu,human_error,en_route,Saab 340B,28,B-12255
+1,en route,Ariana Afghan Airlines,A1,bad weather,suspected,Afghanistan,3/19/1998,45,"Sharki Baratayi Mountain, near Charasyab",weather,en_route,Boeing 727-228,44,YA-FAZ
+1,landing,Philippine Airlines,A1,pilot error,probable,Philippines,3/22/1998,3,Bacolod City Domestic Airport,human_error,landing,Airbus A320,19,RP-C3222
+1,landing,Peruvian AF,A1,engine failure,confirmed,Peru,3/28/1998,22,near Piura Airport,mechanical,approach,Antonov 32,33,OB-1389
+1,en route,Air France,A1,pilot & crew error,probable,Colombia,4/20/1998,53,Bogota,human_error,en_route,Boeing 727,46,HC-BSU
+1,landing,"Fuerza Aérea del Peru - FAP, operating for Occidental Petroleum",A1,low visibility,suspected,Peru,5/5/1998,75,near Andoas,weather,approach,Boeing 737-282,53,FAP-351
+1,en route,MIAT Mongolian Airlines,A1,overload,suspected,Mongolia,5/26/1998,28,"near Erdenet, Orkhon",human_error,en_route,Harbin Y-12,36,JU-1017
+1,landing,Propair,A1,pilot & crew error,probable,Canada,6/18/1998,11,Montreal-Mir,human_error,approach,Swearingen SA226-TC Metro II,27,C-GQAL
+1,landing,Plane Sailing,A1,maintenance error,suspected,UK,7/27/1998,2,Southampton,human_error,landing,Consolidated PBY-5A Catalina,17,VP-BPS
+1,en route,Selva Taxi Aéreo,A1,overload,probable,Brazil,7/29/1998,12,"near Manaus, AM",human_error,en_route,Embraer 110P1 Bandeirante,27,PT-LGN
+1,takeoff,Alliance Air,A1,mechanical failure,confirmed,India,7/30/1998,9,Cochin Airport,mechanical,initial_climb,HAL/Dornier 228-201,25,VT-EJW
+1,landing,Proteus Air,A1,pilot error,probable,France,7/30/1998,14,Baie de Quiberon,human_error,approach,Beechcraft 1900D,29,F-GSJM
+1,en route,"Nepalese CAA, operating for Lumbini Airways",A1,unknown,unknown,Nepal,8/21/1998,18,near Ghorepani,unknown,en_route,DHC-6 Twin Otter 300,31,9N-ACC
+1,landing,Myanma Airways,A1,pilot error,suspected,Myanmar,8/24/1998,36,near Tachilek Airport,human_error,approach,Fokker F-27,40,XY-AEN
+1,takeoff,Cubana,A1,maintenance error,suspected,Ecuador,8/29/1998,80,Quito-Mariscal Sucre Airport,human_error,takeoff,Tupolev 154M,55,CU-T1264
+1,en route,Swissair,A1,design flaw,suspected,Canada,9/2/1998,229,"Atlantic Ocean near St Margarets Bay, Nova Scotia",mechanical,en_route,Douglas MD-11,86,HB-IWF
+1,en route,"Permtransavia, operating for Prestavia",A1,engine failure,suspected,Angola,9/2/1998,24,near Malanje Airport,mechanical,en_route,Antonov 26B,34,RA-26028
+1,landing,PauknAir,A1,pilot error,suspected,Morocco,9/25/1998,38,"Boumahfouda, Morocco",human_error,approach,BAe 146,41,EC-GEO
+1,en route,Lionair,C1,shot down,suspected,Sri Lanka,9/29/1998,55,"off coast of Mannar District, Sri Lanka",criminal,en_route,Antonov An-24rv,47,EW-46465
+1,en route,Lignes Aériennes Congolaises,C1,shot down,confirmed,DR Congo,10/10/1998,41,near Kindu,criminal,en_route,Boeing 727-30,42,9Q-CSG
+1,landing,Living Water Teaching Ministries,A1,low visibility,probable,Guatemala,11/1/1998,11,near Quetzaltenango,weather,approach,Douglas C-47A-90-DL (DC-3C),27,N3FY
+1,landing,Thai Airways International,A1,bad weather,suspected,Thailand,12/11/1998,101,Surat Thani,weather,approach,Airbus A310-324,60,HS-TIA
+1,landing,China Southwest Airlines,A1,mechanical failure,confirmed,China,2/24/1999,61,Ruian,mechanical,approach,Tupolev Tu-154M,49,B-2622
+1,landing,Minerva Airlines,A1,bad weather,suspected,Italy,2/25/1999,4,Genoa-Cristo,weather,landing,Dornier 328-110,20,D-CPRR
+1,en route,Turkish Airlines,A1,bad weather,probable,Turkey,4/7/1999,6,near Ceyhan,weather,en_route,Boeing 737-400,22,TC-JEP
+1,en route,Aerotaca,A1,low visibility,probable,Colombia,4/8/1999,5,near Málaga,weather,en_route,DHC-6 Twin Otter 300,21,HK-2760
+1,en route,Vanair,A1,bad weather,probable,Vanuatu,5/8/1999,7,near Port Vila,weather,en_route,DHC-6 Twin Otter 300,23,YJ-RV9
+1,landing,American Airlines,A1,pilot & crew error,confirmed,USA,6/1/1999,11,Little Rock National Airport,human_error,landing,Douglas Md-82,27,N215AA
+1,en route,Airlink,A1,pilot error,suspected,papua New Guinea,6/17/1999,17,near Goroka,human_error,en_route,Embraer 110P2 Bandeirante,31,P2-ALX
+1,landing,LANC Colombia,A1,pilot & crew error,confirmed,Colombia,7/4/1999,4,Villavicencio-La Vanguardia Airport,human_error,landing,Douglas DC-6A,20,HK-1776
+1,en route,Air Fiji,A1,pilot error,probable,Fiji,7/24/1999,17,near Delailasakau,human_error,en_route,Embraer 110P1 Bandeirante,31,DQ-AFN
+1,en route,TACV Cabo Verde Airlines,A1,low visibility,suspected,Cape Verde,8/7/1999,18,Santo Antão,weather,en_route,Dornier 228-201,31,D4-CBC
+1,landing,Regionnair,A1,pilot error,probable,Canada,8/12/1999,1,near Sept-Îles Airport,human_error,approach,Beechcraft 1900D,15,C-FLIH
+1,landing,China Airlines,A1,pilot error,suspected,Hong Kong,8/22/1999,3,Chek Lap Kok International Airport,human_error,landing,Douglas MD-11,19,B-150
+1,landing,Uni Air,A1,passenger error,probable,Taiwan,8/24/1999,1,Hualien Airport,human_error,landing,MD-90-30,15,B-17912
+1,landing,Uzbekistan Airways,A1,pilot error,probable,Uzbekistan,8/26/1999,2,near Turtkul Airport,human_error,landing,Yakovlev 40,17,UK-87848
+1,takeoff,Líneas Aéreas Privadas Argentinas,A1,pilot & crew error,probable,Argentina,8/31/1999,65,Buenos Aires-Jorge Newbery Airport,human_error,takeoff,Boeing 737-204C,50,LV-WRZ
+1,landing,Necon Air,A1,pilot error,probable,Nepal,9/5/1999,15,near Kathmandu-Tribhuvan Airport,human_error,approach,British Aerospace BAe-748-501,29,9N-AEG
+1,en route,EgyptAir,A1,crew error,probable,USA,10/31/1999,217,"near Nantucket Island, MA",human_error,en_route,Boeing 767-366ER,84,SU-GAP
+1,en route,TAESA Lineas Aéreas,A1,pilot & crew error,probable,Mexico,11/9/1999,18,near Uruapan,human_error,en_route,Douglas DC-9-31F,31,XA-TKN
+1,en route,"SiFly, operating for UN",A1,pilot & crew error,probable,Serbia,11/12/1999,24,near Mitrovica,human_error,en_route,ATR-42-312,34,F-OHFV
+1,en route,Asian Spirit,A1,unknown,unknown,Philippines,12/7/1999,17,Kasibu,unknown,en_route,Let L-410UVP-E,31,RP-C3883
+1,en route,SATA Air Açores,A1,low visibility,probable,Portugal,12/11/1999,35,Sao Jorge Island,weather,en_route,British Aerospace ATP,40,CS-TGM
+1,landing,Cubana de Aviación,A1,wet runway,probable,Guatemala,12/21/1999,18,Guatemala City-La Aurora Airport,weather,landing,Douglas DC-10-30,31,F-GTDI
+1,en route,Indian Airlines,H2,hostage situation,confirmed,Afghanistan,12/24/1999,1,Kandahar Airport,criminal,en_route,Airbus A300B2-101,15,VT-EDW
+1,landing,Cubana de Aviación,A1,pilot error,probable,Venezuela,12/25/1999,22,Bejuma,human_error,approach,Yakovlev 42D,33,CU-T1285
+1,en route,Skyline Airways,A1,unknown,unknown,Nepal,12/25/1999,10,near Simra Airport,unknown,en_route,DHC-6 Twin Otter 300,26,9N-AFL
+1,landing,Skypower Express,A1,engine failure,suspected,Nigeria,1/5/2000,2,Abuja International Airport,mechanical,approach,Embraer 110P1A Bandeirante,17,5N-AXL
+1,en route,Crossair,A1,pilot error,suspected,Switzerland,1/10/2000,10,near Nassenwil,human_error,en_route,Saab 340B,26,HB-AKK
+1,landing,"Avisto, operating for Sirte Oil Company",A1,,unknown,Libya,1/13/2000,22,near Marsa el-Brega,unknown,approach,Shorts 360-300,33,HB-AAM
+1,en route,TACSA,A1,pilot error,suspected,Costa Rica,1/15/2000,5,San José,human_error,en_route,Let L-410UVP-E,21,YS-09-C
+1,takeoff,Kenya Airways,A1,pilot error,confirmed,Kenya,1/30/2000,169,near Abidjan-Felix Houphouet Boigny Airport,human_error,take off,Airbus A310-304,75,5Y-BEN
+1,en route,Alaska Airlines,A1,maintenance error,confirmed,USA,1/31/2000,88,near Anacapa Island,human_error,en_route,MD-83,57,N963AS
+1,takeoff,Sabin Air,A1,unknown,unknown,Mozambique,2/8/2000,1,Maputo,unknown,initial_climb,Embraer 110P2 Bandeirante,15,C9-AUH
+1,takeoff,Vologoda Air,A1,bad weather,confirmed,Russia,3/9/2000,9,Moskva-Sheremetyevo Airport,weather,initial_climb,Yakovlev 40D,25,RA-88170
+1,en route,AeroPerlas,A1,unknown,unknown,Panama,3/17/2000,10,near Carreto,unknown,en_route,DHC-6 Twin Otter 300,26,HP-1267APP
+1,takeoff,Uralex,A1,brake failure,confirmed,Angola,3/25/2000,3,Huambo Airport,mechanical,takeoff,Antonov 32,19,D2-MAJ
+1,landing,Air Philippines,A1,pilot error,suspected,Philippines,4/19/2000,131,near Davao,human_error,approach,Boeing 737-2H4,67,RP-C3010
+1,landing,Avirex,A1,bad weather,suspected,Gabon,5/17/2000,3,near Moanda Airport,weather,approach,Beechcraft 1900C-1,19,TR-LFK
+1,landing,East Coast Aviation Services,A1,pilot error,confirmed,USA,5/21/2000,19,near Wilkes-Barre Airport,human_error,approach,British Aerospace 3102 Jetstream,32,N16EJ
+1,landing,Ghana Airlink,A1,pilot error,suspected,Ghana,6/5/2000,7,Accra-Kotoka International Airport,human_error,landing,Fokker F-27 Friendship 600,23,G 524
+1,landing,Wuhan Airlines,A1,bad weather,confirmed,China,6/22/2000,49,near Wuhan,weather,approach,Xian Yunshuji Y-7-100C,45,B-3479
+1,en route,Aerocaribe,A1,bad weather,confirmed,Mexico,7/8/2000,19,near Chulum Juarez,weather,en_route,British Aerospace 3201 Jetstream,32,N912FJ
+1,landing,Alliance Air,A1,pilot error,confirmed,India,7/17/2000,60,near Patna Airport,human_error,approach,Boeing 737-2A8,49,VT-EGD
+1,takeoff,Air France,A1,mechanical failure,confirmed,France,7/25/2000,113,Gonesse,mechanical,take off,Aérospatiale / BAC Concorde 10,63,F-BTSC
+1,en route,Royal Nepal Airlines,A1,pilot error,suspected,Nepal,7/27/2000,25,Jarayakhali hill,human_error,en_route,DHC-6 Twin Otter 300,35,9N-ABP
+1,unknown,STAER Airlines,A1,unknown,unknown,Congo,8/12/2000,27,near Tshikapa,unknown,unknown,Antonov 26B,36,
+1,landing,Gulf Air,A1,pilot error,confirmed,Bahrain,8/23/2000,143,near Bahrain International Airport,human_error,approach,Airbus A320-212,70,A4O-EK
+1,en route,Central Air,A1,mechanical failure,confirmed,Australia,9/4/2000,8,"near Burketown, QLD",mechanical,en_route,Beechcraft 200 Super King Air,24,VH-SKC
+1,en route,China Xinhua Airlines,H2,hijack,confirmed,China,9/27/2000,1,Jinan Airport,criminal,en_route,Boeing 737,15,
+1,landing,Lao Aviation,A1,bad weather,probable,Laos,10/19/2000,8,near Sam Neua,weather,approach,Harbin Yunshuji Y-12-II,24,RDPL-34130
+1,takeoff,Singapore Airlines,A1,crew errors,confirmed,Taiwan,10/31/2000,83,Taipei-Chiang Kai Shek Airport,human_error,take off,Boeing 747-412,56,9V-SPK
+1,takeoff,"Renan, operating for Malu Aviation",A1,mechnical failure,confirmed,Congo,11/7/2000,2,Luabo Airport,mechanical,take off,Antonov 32B,17,ER-AFA
+1,takeoff,ASA Pesada,A1,mechnical failure,probable,Angola,11/15/2000,57,near Luanda-4 de Fevereiro Airport,mechanical,take off,Antonov 26,48,D2-FCG
+1,en route,Rutaca,A1,engine failure,suspected,Venezuela,1/25/2001,24,Ciudad Bolívar,mechanical,en_route,Douglas C-47A-65-DL (DC-3C),34,YV-224C
+1,landing,Gum Air,A1,pilot error,suspected,Suriname,2/10/2001,10,near Jacobcondre,human_error,ap,GAF Nomad N.24A,26,PZ-TBP
+1,landing,SAL Express,A1,low visibility,suspected,Angola,3/17/2001,16,Quilemba,weather,approach,Beechcraft 1900C-1,30,S9-CAE
+1,landing,Air Caraïbes,A1,pilot error,suspected,Guadeloupe,3/24/2001,20,Saint-Barthélémy,human_error,approach,de Havilland Canada DHC-6 Twin Otter 300,32,F-OGES
+1,landing,Avjet Corp,A1,bad weather,suspected,USA,3/29/2001,18,"near Aspen Airport, CO",weather,approach,Gulfstream Aerospace G-1159 Gulfstream III,31,N303GA
+1,en route,Faraz Qeshm,A1,bad weather,suspected,Iran,5/17/2001,30,near Sari,weather,en_route,Yakovlev 40,37,EP-TQP
+1,landing,Vladivostokavia,A1,pilot error,probable,Russia,7/4/2001,145,near Burdakovka,human_error,approach,Tupolev 154M,70,RA-85845
+1,en route,Victoria Air,A1,overloaded,suspected,DR Congo,8/23/2001,4,Mugogo,human_error,en_route,Antonov 28,20,3C-LLA
+1,landing,Binter Méditerraneo,A1,mechanical failure,suspected,Spain,8/29/2001,4,Malaga Airport,mechanical,approach,CASA CN-235-200,20,EC-FBC
+1,en route,United Airlines,H1,intentionally crashed,confirmed,USA,9/11/2001,44,"near Shanksville, PA",criminal,en_route,Boeing 757-222,43,N591UA
+1,en route,American Airlines,H1,intentionally crashed,confirmed,USA,9/11/2001,189,"Washington, DC",criminal,en_route,Boeing 757-223,79,N644AA
+1,en route,United Airlines,H1,intentionally crashed,confirmed,USA,9/11/2001,965,"New York, NY",criminal,en_route,Boeing 767-222,165,N612UA
+1,en route,American Airlines,H1,intentionally crashed,confirmed,USA,9/11/2001,1692,"New York, NY",criminal,en_route,Boeing 767-223ER,216,N334AA
+1,takeoff,Aero Ferinco,A1,mechanical failure,suspected,Mexico,9/12/2001,19,near Chichén Itzá,mechanical,initial_climb,Let L-410UVP-E,32,XA-ACM
+1,en route,TAM Brasil,A2,engine failure,probable,Brazil,9/15/2001,1,near Belo Horizon,mechanical,en_route,Fokker 100,15,PT-MRN
+1,takeoff,Atlantic Airlines,A1,pilot error,suspected,Guatemala,9/18/2001,8,Guatemala City-La Aurora Airport,human_error,takeoff,Let L-410UVP-E,24,TG-CFE
+1,en route,Sibir Airlines,C1,shot down,confirmed,Black Sea,10/4/2001,78,"off Adler, Russia",human_error,en_route,Tupolev 154M,54,RA-85693
+1,takeoff,Scandinavian Airlines System - SAS,A1,pilot error,suspected,Italy,10/8/2001,114,Milano-Linate Airport,human_error,takeoff,McDonnell Douglas MD-87,63,SE-DMA
+1,en route,American Airlines,A1,pilot error,suspected,USA,11/12/2001,265,"Belle Harbor, NY",human_error,en_route,Airbus A300B4-605R,91,N14053
+1,en route,IRS Aero,A1,pilot error,suspected,Russia,11/19/2001,27,near Kalyazin,human_error,en_route,Ilyushin 18V,36,RA-75840
+1,landing,Crossair,A1,pilot error,probable,Switzerland,11/24/2001,24,near Zürich-Kloten,human_error,approach,Avro RJ.100,34,HB-IXM
+1,en route,Heliandes,A1,pilot error,suspected,Colombia,12/16/2001,16,near San Antonio,human_error,en_route,Let L-410UVP-E,30,HK-4175X
+1,landing,Garuda,A1,bad weather,probable,Indonesia,1/16/2002,1,near Yokyakarta,weather,approach,Boeing 737-3Q8,15,PK-GWA
+1,en route,Petroproduccion,A1,pilot & crew error,suspected,Colombia,1/17/2002,26,Cerro El Tigre,human_error,en_route,Fairchild FH-227E,35,HC-AYM
+1,landing,TAME Ecuador,A1,pilot error,suspected,Colombia,1/28/2002,94,near Ipiales,human_error,approach,Boeing 727-134,58,HC-BLF
+1,landing,Iran Air Tours,A1,bad weather,suspected,Iran,2/12/2002,119,near Sarab-e Do Rah,weather,approach,Tupolev 154M,65,EP-MBS
+1,en route,Aerotaxi,A1,wing loss,confirmed,Cuba,3/14/2002,16,El Huerto,mechanical,en_route,Antonov 2R,30,CU-T1020
+1,landing,Air China,A1,bad weather,confirmed,South Korea,4/15/2002,129,near Pusan-Kimhae Airport,weather,approach,Boeing 767-2J6ER,67,B-2552
+1,en route,EAS Airlines,A1,aircraft stalled,probable,Nigeria,5/4/2002,149,Kano,mechanical,en_route,BAC One-Eleven 525FT,71,5N-ESF
+1,landing,China Northern,A1,fire in the cabin/ insurance fraud,probable,China,5/7/2002,112,near Dalian,criminal,approach,MD-82,63,B-2138
+1,landing,EgyptAir,A1,unknown,unknown,Tunisia,5/7/2002,14,near Tunis-Carthage Airport,unknown,approach,Boeing 737-566,29,SU-GBI
+1,en route,Trigana Air Service,A1,bad weather,confirmed,Indonesia,5/25/2002,6,near Nabire,weather,en_route,DHC-6 Twin Otter 300,22,PK-YPZ
+1,en route,China Airlines,A1,structural failure,probable,Pacific Ocean (Taiwan Straight),5/25/2002,225,near Penghu Island,mechanical,en_route,Boeing 747-209B,85,B-18255
+1,en route,Bashkirskie Avialinii,A1,atc error,confirmed,Germany,7/1/2002,69,Überlingen,human_error,en_route,Tupolev 154M,52,RA-85816
+1,en route,Skyline Airways,A1,bad weather,confirmed,Nepal,7/17/2002,4,near Surkhet Airport,weather,en_route,DHC-6 Twin Otter 300,20,9N-AGF
+1,landing,Shangri-La Air,A1,bad weather,confirmed,Nepal,8/22/2002,18,near Pokhara,weather,approach,DHC-6 Twin Otter 300,31,9N-AFR
+1,landing,Vostok Aviakompania,A1,bad weather,confirmed,Russia,8/29/2002,16,near Ayan,weather,approach,Antonov 28,30,RA-28932
+1,landing,Rico Linhas Aéreas,A1,bad weather,suspected,Brazil,8/30/2002,23,Rio Branco-Pres. Medici Airport,weather,approach,Embraer 120ER Brasilia,34,PT-WRQ
+1,landing,Deraps Aviation,A1,pilot error,probable,Canada,9/28/2002,3,"near Natashquan, QC",human_error,approach,DHC-3 Otter,19,C-FLGA
+1,landing,Aviation Charter,A1,crew error,probable,USA,10/25/2002,8,near Eveleth-Virginia Municipal Airport,human_error,approach,Beechcraft A100 King Air,24,N41BE
+1,landing,Luxair,A1,crew error,suspected,Luxembourg,11/6/2002,20,near Niederanven,human_error,approach,Fokker 50,32,LX-LGB
+1,en route,Laoag,A1,engine trouble,confirmed,Philippines,11/11/2002,19,near Manila Ninoy Aquino International Airport,mechanical,en_route,Fokker F-27 Friendship 600,32,RP-C6888
+1,landing,Eagle Aviation,A1,engine trouble,probable,Kenya,11/28/2002,1,Mara Intrepids,mechanical,approach,Let L-410UVP-E20,15,5Y-ONT
+1,en route,Aeromist Kharkiv,A1,pilot error,confirmed,Iran,12/23/2002,44,near Baghrabad,human_error,en_route,Antonov 140,43,UR-14003
+1,landing,Ocean Airlines,A1,thunderstorm,confirmed,Comoros,12/27/2002,1,near Anjouan,weather,approach,Let L-410UVP,15,9XR-RB
+1,takeoff,"Air Midwest, operating for US Airways Express",A1,airline error,confirmed,USA,1/8/2003,21,Charlotte-Do...,human_error,takeoff,Beechcraft 1900D,33,N233YV
+1,landing,Turkish Airlines,A1,low visibility,confirmed,Turkey,1/8/2003,75,Diyarbakir Airport,weather,approach,Avro RJ.100,53,TC-THG
+1,landing,TANS Perú,A1,pilot & crew error,suspected,Peru,1/9/2003,46,near Chachapoyas,human_error,approach,Fokker F-28 Fellowship 1000,44,OB-1396
+1,takeoff,Air Algérie,A1,engine failure,probable,Algeria,3/6/2003,102,Tamanrasset Airport,mechanical,initial_climb,Boeing 737-2T4,60,7T-VEZ
+1,en route,Air Regional,A1,unknown,unknown,Indonesia,3/27/2003,4,near Mulia,unknown,en_route,DHC-6 Twin Otter 300,20,PK-WAY
+1,landing,Union de Transports Aériens,A1,crew error,probable,Turkey,5/26/2003,75,near Maçka,human_error,approach,Yakovlev 42D,53,UR-42352
+1,landing,Brit Air,A1,crew error,confirmed,France,6/22/2003,1,near Brest-Guipavas Airport,human_error,approach,Canadair CL-600-2B19 Regional,15,F-GRJS
+1,landing,Sudan Airways,A1,engine failure,confirmed,Sudan,7/8/2003,116,near Port Sudan,mechanical,approach,Boeing 737-2J8C,64,ST-AFK
+1,en route,Ruiban and Duran,A1,unknown,unknown,Venezuela,7/13/2003,4,near San Cristobal,unknown,en_route,Let L-410UVP-E,20,YV-1060CP
+1,en route,Ryan Blake Air Charter,A1,unknown,unknown,Kenya,7/19/2003,14,Mount Kenya,unknown,en_route,Swearingen SA226-TC Metro II,29,ZS-OYI
+1,en route,Tropical Airways,A1,mechanical failure,probable,Haiti,8/24/2003,21,near Cap Haitien Airport,mechanical,en_route,Let L-410UVP-E3,33,HH-PRV
+1,takeoff,Trans Guyana Airways,A1,engine failure,confirmed,Guyana,11/8/2003,2,near Ogle,mechanical,initial takeoff,Shorts SC.7 Skyvan 3M-100,17,8R-GMC
+1,takeoff,Huron Air,A1,pilot error,probable,Canada,12/16/2003,2,"near Jellicoe, ON",human_error,takeoff,DHC-3 Turbo Otter,17,C-GOFF
+1,takeoff,Union de Transports Aériens,A1,overloaded,confirmed,Benin,12/25/2003,141,Cotonou Airport,human_error,takeoff,Boeing 727-223,69,3X-GDO
+1,en route,Flash Airlines,A1,unknown,unknown,Egypt,1/3/2004,148,near Sharm el Sheikh,unknown,en_route,Boeing 737-3Q8,71,SU-ZCF
+1,landing,Uzbekistan Airways,A1,bad weather,probable,Uzbekistan,1/13/2004,37,Tashkent Airport,weather,landing,Yakovlev 40,40,UK-87985
+1,landing,Tassili Airlines,A1,atc error,probable,Algeria,1/28/2004,1,near Ghardaia-Noumerate Airport,human_error,approach,Beechcraft 1900D,15,7T-VIN
+1,landing,Kish Air,A1,unknown,unknown,UAE,2/10/2004,43,near Sharjah Airport,unknown,approach,Fokker 50,43,EP-LCA
+1,unknown,El Magal Aviation,A1,bad weather,probable,Sudan,5/11/2004,1,near Dalang,weather,unknown,Antonov 12BP,15,ST-SIG
+1,landing,Rico Linhas Aéreas,A1,unknown,unknown,Brazil,5/14/2004,33,"near Manaus, AM",unknown,approach,Embraer 120ER Brasilia,39,PT-WRO
+1,en route,Gabon Express,A1,mechanical failure,suspected,Gabon,6/8/2004,19,near Libreville Airport,mechanical,en_route,Hawker Siddeley HS-748-232 Srs,32,TR-LFW
+1,en route,FLA RF,A1,engine failure,probable,Russia,6/26/2004,2,near Moskva-Myachkovo Airport,mechanical,en_route,Lisunov Li-2T,17,RA-1300K
+1,en route,Volga-Aviaexpress,C1,"collision, suicide bombing",confirmed,Russia,8/24/2004,44,near Buchalki,criminal,en_route,Tupolev 134A-3,43,RA-65080
+1,en route,Sibir Airlines,C1,"collision, suicide bombing",confirmed,Russia,8/24/2004,46,near Gluboki,criminal,en_route,Tupolev 154B-2,44,RA-85556
+1,landing,"Corporate Airlines, operating for AmericanConnection",A1,pilot error,confirmed,USA,10/19/2004,13,"near Kirksville Regional Airport, MO",human_error,approach,British Aerospace 3201 Jetstream,28,N875JX
+1,landing,Venezolana,A1,low visibility,confirmed,Venezuela,11/18/2004,4,Caracas-Simón Bolívar International Airport,weather,landing,British Aerospace 3101 Jetstream,20,YV-1083C
+1,takeoff,China Yunnan,A1,icing,confirmed,China,11/21/2004,55,near Baotou Airport,weather,initial_climb,Canadair CL-600-2B19 Regional,47,B-3072
+1,takeoff,"Hop-A-Jet Inc, operating for Global Aviation",A1,crew error,probable,USA,11/28/2004,3,Montrose Cou...,human_error,takeoff,Canadair CL-600-2A12 Challenger,19,N873G
+1,en route,Grand Aire Express,A1,pilot & maintenance error,probable,USA,11/30/2004,2,"Howell Island, MO",human_error,en_route,MBB HFB-320 Hansa Jet,17,N604GA
+1,landing,Lion Air,A1,wet runway,suspected,Indonesia,11/30/2004,25,Solo City-Adi Sumarmo Airport,weather,landing,MD-82,35,PK-LMN
+1,en route,"Phoenix Aviation, operating for Kam Air",A1,low visibility,suspected,Afghanistan,2/3/2005,104,near Kabul,weather,en_route,Boeing 737-242,61,EX-037
+1,landing,MAF,A1,low visibility,suspected,Papua New Guinea,2/22/2005,2,near Wobegon,weather,Approach,DHC-6 Twin Otter 300,17,P2-MFQ
+1,landing,"Kuzbassaviafrakht, operating for Regional Airlines",A1,pilot & crew error,suspected,Russia,3/16/2005,28,near Varandey,human_error,Approach,Antonov 24RV,36,RA-46489
+1,takeoff,West Caribbean Airways,A1,engine failure,probable,Colombia,3/26/2005,9,Providencia-El Embrujo Airport,mechanical,initial_climb,Let L-410UVP-E,25,HK-4146
+1,en route,GT Air,A1,unknown,unknown,Indonesia,4/12/2005,17,near Enarotali,unknown,en_route,DHC-6 Twin Otter 100,31,PK-LTZ
+1,landing,Saha Air,A1,mechanical failure,probable,Iran,4/20/2005,3,Tehran-Mehrabad Airport,mechanical,Landing,Boeing 707-3J9C,19,EP-SHE
+1,landing,"Aeroworld, operating for Kisangani Airlift",A1,pilot error,suspected,Congo (Democratic Republic),5/5/2005,10,near Kisangani,human_error,Approach,Antonov 26,26,
+1,landing,"Transair Australia, operating for Aero-Tropics",A1,pilot & crew error,probable,Australia,5/7/2005,15,near Lockhart River Airport,human_error,Approach,Swearingen SA227-DC Metro 23,29,VH-TFU
+1,en route,Victoria Air,A1,unknown,unknown,Congo (Democratic Republic),5/25/2005,27,near Biega,unknown,en_route,Antonov 12BP,36,9Q-CVG
+1,takeoff,"al-Majal Company, operating for Marsland Aviation",A1,engine failure,probable,Sudan,6/2/2005,7,Khartoum-Civil Airport,mechanical,Takeoff,Antonov 24B,23,ST-WAL
+1,en route,Equatorial Express Airlines,A1,unknown,unknown,Equatorial Guinea,7/16/2005,60,near Baney,unknown,en_route,Antonov 24B,49,3C-VQR
+1,en route,Tuninter,A1,maintenance & crew error,confirmed,Italy,8/6/2005,16,near Palermo-Punta Raisi Airport,human_error,en_route,ATR-72-202,30,TS-LBB
+1,en route,Helios Airways,A1,maintenance & crew error,probable,Greece,8/14/2005,121,near Grammatikos,human_error,en_route,Boeing 737-31S,65,5B-DBY
+1,en route,West Caribbean Airways,A1,emergency response error,confirmed,Venezuela,8/16/2005,160,near Machiques,human_error,en_route,MD-82,73,HK-4374X
+1,landing,TANS Perú,A1,pilot & crew error,confirmed,Peru,8/23/2005,40,near Pucallpa Cap Fap David Abenzur Rengifo Airport,human_error,Approach,Boeing 737-244,42,OB-1809-P
+1,takeoff,Mandala Airlines,A1,pilot & crew error,probable,Indonesia,9/5/2005,149,Medan-Polonia Airport,human_error,initial_climb,Boeing 737-230,71,PK-RIM
+1,landing,"Aerocom, operating for Galaxy Incorporation",A1,low visibility,suspected,Congo (Democratic Republic),9/5/2005,11,near Isiro-Matari Airport,weather,approach,Antonov 26B,27,ER-AZT
+1,en route,Air Kasai,A1,unknown,unknown,Congo (Democratic Republic),9/9/2005,13,near Brazzaville,unknown,en_route,Antonov 26B,28,9Q-CFD
+1,en route,Bellview Airlines,A1,pilot error,suspected,Nigeria,10/22/2005,117,"Lisa Village, Ogun State",human_error,en_route,Boeing 737-2L9,64,5N-BFN
+1,landing,Southwest Airlines,A2,pilot error,probable,USA,12/8/2005,1,Chicago Midway International Airport,human_error,landing,Boeing 737-7H4,15,N471WN
+1,landing,Sosoliso Airlines,A1,pilot & crew error,probable,Nigeria,12/10/2005,108,Port Harcourt Airport,human_error,landing,DC-9-32,62,5N-BFD
+1,takeoff,Chalk's,A1,maintenance & crew error,probable,USA,12/19/2005,20,"Miami, FL",human_error,initial_climb,Grumman G-73T Turbo Mallard,32,N2969
+1,en route,Azerbaijan Airlines,A1,unknown,suspected,Azerbaijan,12/23/2005,23,near Nardaran,mechanical,en_route,Antonov 140-100,34,4K-AZ48
+1,en route,TEAM Linhas Aéreas,A1,pilot & crew error,probable,Brazil,3/31/2006,19,"near Rio Bonito, RJ",human_error,en_route,Let L-410UVP-E20,32,PT-FSE
+1,landing,TAM – Transporte Aéreo Militar,A1,bad weather,suspected,Bolivia,4/16/2006,1,Guayaramerín Airport,weather,landing,Fokker F-27 Friendship 400M,15,FAB-91
+1,landing,"Valan International Cargo Charter, operating for US Department of State",A1,unknown,suspected,Afghanistan,4/24/2006,5,Lashkar Gah,human_error,landing,Antonov 32B,21,ZS-PDV
+1,landing,Armavia,A1,pilot error,confirmed,Russia,5/3/2006,113,near Adler/Sochi Airport,human_error,Approach (APR),Airbus A320-211,63,EK32009
+1,landing,Yeti Airlines,A1,pilot & crew error,probable,Nepal,6/21/2006,9,near Jumla Airport,human_error,approach,DHC-6 Twin Otter 300,25,9N-AEQ
+1,landing,Sibir Airlines,A1,pilot & crew error,confirmed,Russia,7/9/2006,125,Irkutsk Airport,human_error,landing,Airbus A310-324,66,F-OGYP
+1,takeoff,Pakistan International Airlines,A1,maintenance & crew error,confirmed,Pakistan,7/10/2006,45,near Multan Airport,human_error,initial_climb,Fokker F-27 Friendship 200,44,AP-BAL
+1,en route,TRACEP-Congo Aviation,A1,unknown,unknown,Congo (Democratic Republic),8/3/2006,17,near Bukavu,unknown,en_route,Antonov 28,31,9Q-COM
+1,en route,Pulkovo,A1,pilot error,confirmed,Russia,8/22/2006,170,near Donetsk,human_error,en_route,Tupolev 154M,75,RA-85185
+1,takeoff,"Comair, operating for Delta Connection",A1,pilot & crew error,confirmed,USA,8/27/2006,49,"Lexington-Blue Grass Airport, KY",human_error,takeoff,Canadair CL-600-2B19 Regional,45,N431CA
+1,landing,Iran Air Tours,A1,unknown,unknown,Iran,9/1/2006,28,Mashad Airport,unknown,landing,Tupolev 154M,36,EP-MCF
+1,en route,Gol,A1,atc error,probable,Brazil,9/29/2006,154,"near Peixoto Azevedo, MT",human_error,en_route,Boeing 737-8EH,72,PR-GTD
+1,landing,Atlantic Airways,A1,mechanical failure,probable,Norway,10/10/2006,4,Stord-Sørstokken Airport,mechanical,landing,British Aerospace BAe-146-200A,20,OY-CRG
+1,takeoff,ADC Airlines,A1,pilot error,confirmed,Nigeria,10/29/2006,96,Abuja International Airport,human_error,initial_climb,Boeing 737-2B7,59,5N-BFK
+1,landing,Gomair,A1,engine failure,suspected,Congo (Democratic Republic),11/9/2006,1,near Walikale,mechanical,landing,Let L-410UVP,15,9Q-CBQ
+1,en route,Trigana Air Service,A1,unknown,unknown,Indonesia,11/17/2006,12,Puncak Jaya,unknown,en_route,DHC-6 Twin Otter 300,27,PK-YPY
+1,en route,AdamAir,A1,pilot error,confirmed,Indonesia,1/1/2007,102,near Pambauang,human_error,en_route,Boeing 737-4Q8,60,PK-KKW
+1,landing,Garuda,A1,pilot error,confirmed,Indonesia,3/7/2007,21,Yogyakarta-Adisutjipto Airport,human_error,landing,Boeing 737-497,33,PK-GZC
+1,landing,UTAir,A1,pilot & crew error,confirmed,Russia,3/17/2007,6,Samara Airport,human_error,landing,Tupolev 134A-3,22,RA-65021
+1,en route,Kenya Airways,A1,pilot error,probable,Cameroon,5/5/2007,114,near Douala Airport,human_error,en_route,Boeing 737-8AL,63,5Y-KYA
+1,en route,Karibu Airways,A1,unknown,unknown,DR Congo,6/21/2007,1,near Kamina,unknown,en_route,Let L-410UVP,15,9Q-CEU
+1,en route,PMT Air,A1,unknown,unknown,Cambodia,6/25/2007,22,Phnom Damrey,unknown,en_route,Antonov 24B,33,XU-U4A
+1,landing,TAAG Angola Airlines,A1,unknown,unknown,Angola,6/28/2007,6,M'Banza Congo Airport,unknown,landing,Boeing 737-2M2,22,D2-TBP
+1,landing,TAM Brasil,A1,unknown,unknown,Brazil,7/17/2007,199,"São Paulo-Congonhas Airport, SP",unknown,landing,Airbus A320-233,81,PR-MBK
+1,takeoff,Air Moorea,A1,mechanical failure,confirmed,French Polynesia,8/9/2007,20,near Moorea-Temae Airport,mechanical,initial_climb,DHC-6 Twin Otter 300,32,F-OIQI
+1,landing,One-Two-Go Airlines,A1,pilot & crew error,probable,Thailand,9/16/2007,90,Phuket International Airport,human_error,landing,MD-82,57,HS-OMG
+1,en route,Nacional de Aviación,A1,pilot error,confirmed,Colombia,10/8/2007,17,near Cubarral,human_error,en_route,Let L-410UVP-E10A,31,HK-4055
+1,landing,"World Focus Airlines, operating for Atlasjet",A1,pilot error,probable,Turkey,11/30/2007,57,near Isparta Airport,human_error,approach,MD-83,48,TC-AKM
+1,en route,Transaven,A1,mechanical failure,confirmed,Venezuela,1/4/2008,14,near Los Roques Airport,mechanical,en_route,Let L-410UVP-E3,29,YV2081
+1,landing,Gira Globo,A1,pilot error,probable,,1/19/2008,13,near Bailundo,human_error,approach,Beechcraft B200 Super King Air,28,D2-FFK
+1,en route,Santa Bárbara Airlines,A1,pilot & crew error,confirmed,Venezuela,2/21/2008,46,near Mérida-A Carnevalli Airport,human_error,en_route,ATR-42-300,44,YV1449
+1,en route,Blue Wing Airlines,A1,unknown,unknown,Suriname,4/3/2008,19,Lawa-Antino Airport,unknown,en_route,Antonov 28,32,PZ-TSO
+1,takeoff,Hewa Bora Airways,A1,unknown,unknown,Congo (Democratic Republic),4/15/2008,40,Goma Airport,unknown,takeoff,DC-9-51,42,9Q-CHN
+1,landing,Equatorial Guinea National Guard,A1,unknown,unknown,Equatorial Guinea,4/16/2008,13,near Annobón Island,unknown,landing,Antonov 32,28,3C-5GE
+1,en route,"Flex Air, operating for Southern Sudan Air Connection",A1,engine failure,probable,South Sudan,5/2/2008,21,near Rumbek,mechanical,en_route,Beechcraft 1900C,33,5Y-FLX
+1,landing,TACA Airlines,A1,pilot error,confirmed,Honduras,5/30/2008,5,Tegucigalpa-Toncontin Airport,human_error,landing,Airbus A320-233,21,EI-TAF
+1,landing,Sudan Airways,A1,pilot & crew error,confirmed,Sudan,6/10/2008,30,Khartoum-Civil Airport,human_error,landing,Airbus A310-324,37,ST-ATN
+1,landing,Aerocord,A1,pilot error,probable,Chile,7/10/2008,9,near Puerto Montt,human_error,approach,Beechcraft 99A,25,CC-CFM
+1,takeoff,Spanair,A1,pilot & crew error,confirmed,Spain,8/20/2008,154,Adolfo Suárez Madrid-Barajas Airport,human_error,takeoff,MD-82,72,EC-HFP
+1,landing,Itek Air,A1,pilot & crew error,confirmed,Kyrgyzstan,8/24/2008,65,near Bishkek-Manas International Airport,human_error,approach,Boeing 737-219,50,EX-009
+1,landing,Aeroflot-Nord,A1,pilot error,probable,Russia,9/14/2008,88,near Perm Airport,human_error,approach,Boeing 737-505,57,VP-BKO
+1,landing,Yeti Airlines,A1,pilot & crew error,probable,Nepal,10/8/2008,18,"Lukla,Tenzin Norgey Airport",human_error,landing,DHC-6 Twin Otter 300,31,9N-AFE
+1,en route,Manaus Aerotáxi,A1,overloaded,confirmed,Brazil,2/7/2009,24,near Santo António,mechanical,en_route,Embraer 110P1 Bandeirante,34,PT-SEA
+1,landing,Colgan Air,A1,pilot error,probable,USA,2/12/2009,50,near Buffalo Niagara International Airport,human_error,approach,DHC-8-402 Q400,45,N200WQ
+1,landing,Turkish Airlines,A1,mechanical failure,confirmed,Netherlands,2/25/2009,9,near Amsterdam-Schiphol International Airport,mechanical,approach,Boeing 737-8F2,25,TC-JGE
+1,en route,Air France,A1,maintenance & crew error,confirmed,Atlantic Ocean (nr. Brazil),6/1/2009,228,near São Pedro,human_error,en_route,Airbus A330-203,85,F-GZCP
+1,landing,Yemenia Airways,A1,pilot & crew error,probable,Comoros,6/30/2009,152,near Mitsamiouli,human_error,approach,Airbus A310-324,72,7O-ADJ
+1,en route,Caspian Airlines,A1,unknown,unknown,Iran,7/15/2009,168,near Qazvin,unknown,en_route,Tupolev 154M,75,EP-CPG
+1,landing,Aria Air,A1,pilot error,suspected,Iran,7/24/2009,16,Mashhad-Shahid Hashemi Nejad Airport,human_error,landing,Ilyushin 62M,30,UP-I6208
+1,en route,Merpati Nusantara,A1,pilot & crew error,suspected,Indonesia,8/2/2009,15,near Oksibil Airport,human_error,en_route,DHC-6 Twin Otter 300,29,PK-NVC
+1,landing,Bangkok Airways,A1,unknown,unknown,Thailand,8/4/2009,1,Koh Samui Airport,unknown,landing,ATR-72-212,15,HS-PGL
+1,grounded,"JetLink Express, operating for Rwandair Express",A1,mechanical failure,confirmed,Rwanda,11/12/2009,1,Kigali Airport,mechanical,grounded,Canadair CL-600-2B19 Regional,15,5Y-JLD
+1,takeoff,Ethiopian Airlines,A1,pilot & crew error,confirmed,Lebanon,1/25/2010,90,near Beirut International Airport,human_error,initial_climb,Boeing 737-8AS (WL),57,ET-ANB
+1,landing,Afriqiyah Airways,A1,low visibility,confirmed,libya,5/12/2010,103,near Tripoli International Airport,weather,approach,Airbus A330-202,61,5A-ONG
+1,en route,Pamir Airways,A1,low visibility,suspected,Afghanistan,5/17/2010,44,Salang Pass,weather,en_route,Antonov 24B,43,YA-PIS
+1,landing,Air India Express,A1,pilot error,confirmed,India,5/22/2010,158,Mangalore-Bajpe Airport,human_error,landing,Boeing 737-8HG (WL),73,VT-AXV
+1,landing,Airblue,A1,pilot error,confirmed,Pakistan,7/28/2010,152,near Islamabad-Benazir Bhutto International Airport,human_error,approach,Airbus A321-231,72,AP-BJB
+1,landing,AIRES Colombia,A1,pilot error,confirmed,Columbia,8/16/2010,2,San Andres Island-Gustavo Rojas Pinilla Airport,human_error,landing,Boeing 737-73V (WL),17,HK-4682
+1,landing,Henan Airlines,A1,pilot error,confirmed,China,8/24/2010,44,near Yichun Lindu Airport,human_error,landing,Embraer ERJ 190-100 LR (ERJ-1,43,B-3130
+1,landing,Conviasa,A1,unknown,unknown,Venuzuela,9/13/2010,17,near Puerto Ordaz Airport,unknown,approach,ATR-42-320,31,YV1010
+1,en route,Aerocaribbean,A1,pilot & crew error,confirmed,Cuba,11/4/2010,68,"near Guasimal, Sancti Spiritus Province",human_error,en_route,ATR-72-212,51,CU-T1549
+1,landing,"Aeroflot, North Kavkaz Civil Aviation Directorate, operating for Dagestan",A1,mechanical failure,confirmed,Russia,12/4/2010,2,Moskva-Domodedovo Airport,mechanical,landing,Tupolev 154M,17,RA-85744
+1,grounded,Kolavia,A1,electric fire,probable,Russia,1/1/2011,3,Surgut Airport,mechanical,grounded,Tupolev 154B-2,19,RA-85588
+1,landing,Iran Air,A1,low visibility,suspected,Iran,1/9/2011,77,near Urmia (Orumiyeh) Airport,weather,approach,Boeing 727-286,54,EP-IRP
+1,landing,"Flightline, operating for Manx2",A1,low visibility,suspected,Ireland,2/10/2011,6,Cork Airport,weather,landing,Swearingen SA227-BC Metro III,22,EC-ITP
+1,en route,Central American Airways,A1,collision,unknown,Honduras,2/14/2011,14,near Cerro de Hula,unknown,en_route,Let L-410UVP-E20,29,HR-AUQ
+1,landing,"Georgian Airways, operating for UN",A1,low visibility,suspected,Congo (Democratic Republic),4/4/2011,32,Kinshasa-N'Djili Airport,weather,landing,Canadair CL-600-2B19 Regional,38,4L-GAE
+1,landing,Merpati Nusantara,A1,pilot error,confirmed,Indonesia,5/7/2011,25,near Kaimana-Utarom Airport,human_error,approach,Xian MA60,35,PK-MZK
+1,en route,SOL Líneas Aéreas,A1,mechanical failure,probable,Argentina,5/18/2011,22,"near Prahuaniyeu, RN",mechanical,en_route,Saab 340A,33,LV-CEJ
+1,landing,"RusAir, operating for RusLine",A1,pilot & crew error,confirmed,Russia,6/20/2011,47,near Petrozavodsk Airport,human_error,approach,Tupolev 134A-3,44,RA-65691
+1,landing,Hewa Bora Airways,A1,bad weather,suspected,Congo (Democratic Republic),7/8/2011,77,Kisangani-Bangoka International Airport,weather,landing,Boeing 727-022 (WL),54,9Q-COP
+1,en route,Angara Airlines,A1,maintenance & crew error,confirmed,Russia,7/11/2011,7,near Strezhevoy,human_error,en_route,Antonov 24RV,23,RA-47302
+1,takeoff,NOAR Linhas Aéreas,A1,engine failure,suspected,Brazil,7/13/2011,16,near Recife-Guararapes International Airport,mechanical,initial_climb,Let L-410UVP-E20,30,PR-NOB
+1,landing,First Air,A1,pilot & crew error,suspected,Canada,8/20/2011,12,near Resolute Airport,human_error,approach,Boeing 737-210C,27,C-GNWN
+1,landing,Aerocon,A1,unknown,unknown,Bolivia,9/6/2011,8,near Trinidad Airport,unknown,approach,Swearingen SA227-BC Metro III,24,CP-2548
+1,takeoff,YAK Service,A1,pilot & crew error,confirmed,Russia,9/7/2011,44,near Yaroslavl-Tunoshna Airport,human_error,initial_climb,Yakovlev 42D,43,RA-42434
+1,en route,SALSA d'Haiti,A1,collision,unknown,Haiti,9/20/2011,3,near Milot,unknown,en_route,Beechcraft 99A,19,HH-APA
+1,landing,Buddha Air,A1,pilot & crew error,suspected,Nepal,9/25/2011,19,near Kathmandu-Tribhuvan Airport,human_error,approach,Beechcraft 1900D,32,9N-AEK
+1,en route,Nusantara Buana Air,A1,collision,unknown,Indonesia,9/29/2011,18,near Kutacane-Alas Leuser Airport,unknown,en_route,CASA/Nurtanio NC-212 Aviocar 2,31,PK-TLF
+1,landing,Airlines PNG,A1,engline loss,suspected,Papua New Guinea,10/13/2011,28,near Madang Airport,mechanical,approach,DHC-8-102,36,P2-MCJ
+1,takeoff,UTAir,A1,maintenance & crew error,suspected,Russia,4/2/2012,33,near Tyumen Airport,human_error,initial_climb,ATR-72-201,39,VP-BYZ
+1,landing,Bhoja Airlines,A1,maintenance & crew error,suspected,Pakistan,4/20/2012,127,near Islamabad-Benazir Bhutto International Airport,human_error,Approach,Boeing 737-236,66,AP-BKC
+1,landing,Agni Air,A1,collision,unknown,Nepal,5/14/2012,15,near Jomsom Airport,unknown,approach,Dornier 228-212,29,9N-AIG
+1,landing,Dana Air,A1,engine failure,suspected,Nigeria,6/3/2012,163,near Lagos Murtala Muhammed International Airport,mechanical,approach,MD-83,74,5N-RAM
+1,en route,Tianjin Airlines,H2,hijacking,confirmed,China,6/29/2012,2,Hotan Airport,criminal,en_route,Embraer ERJ 190-100 LR (ERJ-1,17,B-3171
+1,landing,Alfa Airlines,A1,dust storm,suspected,Sudan,8/19/2012,32,near Talodi,weather,approach,Antonov 26-100,38,ST-ARL
+1,takeoff,Mombasa Air Safari,A1,unknown,unknown,Kenya,8/22/2012,4,Ngerende Airport,unknown,takeoff,Let L-410UVP-E9,20,5Y-UVP
+1,landing,Petropavlovsk-Kamchatsky Air Ent.,A1,pilot & crew error,confirmed,Russia,9/12/2012,10,near Palana Airport,human_error,approach,Antonov 28,26,RA-28715
+1,takeoff,Sita Air,A1,bird strike,suspected,Nepal,9/28/2012,19,near Kathmandu-Tribhuvan Airport,mechanical,initial_climb,Dornier 228-202,32,9N-AHA
+1,landing,"Perimeter Aviation, operating for Kivalliq Air",A1,unknown,unknown,Canada,12/22/2012,1,Sanikiluaq Airport,unknown,landing,Swearingen SA227-AC Metro III,15,C-GFWX
+1,landing,Air Bagan,A1,collision,unknown,Myanmar,12/25/2012,2,near Heho Airport,unknown,landing,Fokker 100,17,XY-AGC
+1,landing,SCAT Airlines,A1,bad weather,suspected,Kazakhstan,1/29/2013,21,"near Almaty Airport, Kazakhstan",weather,approach,Canadair CL-600-2B19 Regional,33,UP-CJ006
+1,landing,South Airlines,A1,pilot error,confirmed,Ukraine,2/13/2013,5,near Donetsk Airport,human_error,landing,Antonov 24RV,21,UR-WRA
+1,landing,Asiana Airlines,A1,pilot error,suspected,USA,7/6/2013,2,San Franciscp,human_error,landing,Boeing 777-28EER,17,HL7742
+1,takeoff,Rediske Air,A1,unknown,unknown,USA,7/7/2013,10,Soldotna Airport,unknown,takeoff,DHC-3T Texas Turbine Otter,26,N93PC
+1,landing,Laos Airlines,A1,bad weather,suspected,Laos,10/16/2013,49,Mekong River,weather,landing,ATR-72,45,RDPL-34233
+1,landing,Tatarstan Airlines,A1,pilot or mechanical error,unknown,Russia,11/17/2013,50,Kazan,unknown,landing,Boeing 747-53A,45,VQ-BBN
+1,en route,Mozambique Airlines,A1,unknown,unknown,Namibia,11/29/2013,33,Namibia,unknown,en_route,Embraer E190,39,C9-EMC
+1,en route,Nepal Airlines,A1,icing,suspected,Nepal,2/16/2014,18,near Sandhikhark,weather,en_route,DHC-6 Twin Otter 300,31,9N-ABB
+1,en route,Malaysia Airlines,A1,unknown,unknown,"Malaysia, Pacific Ocean",3/8/2014,239,South China Sea,unknown,en_route,Boeing 777-2H6ER,87,9M-MRO
+1,en route,Malaysia Airlines,A1,unknown,suspected,Ukraine,7/17/2014,298,near Donetsk,criminal,en_route,Boeing 777-2H6ER,96,9M-MRD
+1,en route,TransAsia Airways,A1,unknown,suspected,Taiwan,7/23/2014,48,near Magong Airport,weather,en_route,ATR 72-500,45,B-22810
+1,en route,Air Algérie,A1,unknown,suspected,Mali,7/24/2014,116,near Gossi,weather,en_route,McDonnell Douglas MD-83,64,EC-LTV
+1,takeoff,Sepahan Airlines,A1,unknown,unknown,Iran,8/10/2014,39,near  Tehran-Mehrabad Airport,unknown,initial_climb,HESA IrAn-140-100,41,EP-GPA
+1,en route,AirAsia,A1,unknown,suspected,Indonesia,12/28/2014,162,coast of Borneo,weather,en_route,A320-200,70,QZ8501
+1,takeoff,TransAsia Airways,A1,mechanical,suspected,Taiwan,2/4/2015,43,near Taipei,unknown,takeoff,ATR 72-600,43,GE235
+1,en route,GermanWings,A1,criminal,suspected,France,3/24/2015,150,French Alps,unknown,en_route,A320-211,61,4U 9525
